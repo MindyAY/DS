@@ -5,6 +5,3 @@ This dataset is originally from the US National Institute of Diabetes and Digest
 The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 
 This dataset was obtained from Kaggle.com.
-
-
-https://github.com/MindyAY/Logistic-Regression
